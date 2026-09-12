@@ -1,0 +1,7 @@
+-rw-r--r-- 1 runner runner 157647289 Sep 12 06:17 perf.csv
+-rw-r--r-- 1 runner runner  26380409 Sep 12 06:17 prof.csv
+roster rows 231623 players 21124
+profiles 21124
+14393125 club_rosters.csv
+ 6475925 roster_profiles.csv
+20869050 total
